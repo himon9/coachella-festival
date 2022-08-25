@@ -13,7 +13,7 @@ const  App = () => {
     <div  className="App">
       <Header/>
 
-      <Element name="eatured">
+      <Element name="featured">
         <Featured/>
       </Element>
       
